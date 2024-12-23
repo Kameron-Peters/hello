@@ -1,6 +1,6 @@
 getgenv().Config = {
-	Invite = "informant.wtf",
-	Version = "0.0",
+	Invite = "PigsHub",
+	Version = "2.0",
 }
 
 getgenv().luaguardvars = {
